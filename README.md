@@ -1,7 +1,5 @@
-Thought for 4 secondsI'll create a CTF solver tool that can help with common challenges. This will include cryptography tools, encoding/decoding functions, and other utilities frequently needed in CTF competitions.
-
-```typescriptreact project="ctf-solver"
-...
+```
+I've created a CTF (Capture The Flag) solver toolkit with various utilities commonly needed in cybersecurity competitions. The application includes:
 ```
 
 I've created a CTF (Capture The Flag) solver toolkit with various utilities commonly needed in cybersecurity competitions. The application includes:
@@ -41,3 +39,4 @@ I've created a CTF (Capture The Flag) solver toolkit with various utilities comm
 The interface is organized with tabs for easy navigation between different tool categories. Each tool provides appropriate inputs and outputs for the specific operation. The application also includes a dark/light mode toggle for better visibility in different environments.
 
 You can use this toolkit to help solve common CTF challenges by quickly applying various transformations and analysis techniques to the challenge data.
+![image](https://github.com/user-attachments/assets/4d539ea0-f2e7-4d76-989a-9c0291bfa76d)
